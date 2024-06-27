@@ -8,7 +8,7 @@ MudYom is a module for pre/post-processing text. It combines, aka มัด, wor
 ## Installation
 Because it's still in `beta`, installation has to be done via
 ```
-$ pip install git+https://github.com/pythainlp/mudyom.git
+$ pip install git+https://github.com/Natthakit-Kong/mudyom.git
 ```
 
 ## Usage (WIP)
